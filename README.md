@@ -21,8 +21,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: EZHIL MATHI. R
-RegisterNumber:212221230026
+Developed by: VISHAL GOWTHAMAN K.R
+RegisterNumber:212221230123
 
 
 import pandas as pd
@@ -77,56 +77,56 @@ print(lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]]))
 
 
 Original data(first five columns):
-![the Logistic Regression Model to Predict the Placement Status of Student](s1.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s1.png)
 
 Data after dropping unwanted columns(first five):
-![the Logistic Regression Model to Predict the Placement Status of Student](s2.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s2.png)
 
 Checking the presence of null values:
 
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s3.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s3.png)
 
 Checking the presence of duplicated values:
 
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s4.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s4.png)
 
 Data after Encoding:
 
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s5.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s5.png)
 
 X Data:
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s6.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s6.png)
 
 Y Data:
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s7.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s7.png)
 
 Predicted Values:
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s8.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s8.png)
 
 Accuracy Score:
 
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s9.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s9.png)
 
 Confusion Matrix:
 
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s10.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s10.png)
 
 Classification Report:
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s11.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s11.png)
 
 Predicting output from Regression Model:
 
 
-![the Logistic Regression Model to Predict the Placement Status of Student](s12.png)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/VishalGowthaman/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/s12.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
